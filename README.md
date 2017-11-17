@@ -4,7 +4,7 @@
 
 -Change directory to ataraxia-website so that when you run `ls` it shows `ataraxia` and `README.md`
 -run `sftp [SUNET ID]@cardinal.stanford.edu`
-- - e.g. `sftp aaga@cardinal.stanford.edu`
+-e.g. `sftp aaga@cardinal.stanford.edu`
 -if it gives a warning type `yes` and enter
 -type your password and press enter
 -select one of the options for two-step
